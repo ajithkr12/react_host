@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.738dedf0.css",
+    "main.css": "/static/css/main.d6bb3968.css",
     "main.js": "/static/js/main.4f037042.js",
     "static/js/787.c28a8a44.chunk.js": "/static/js/787.c28a8a44.chunk.js",
     "static/media/background1.jpg": "/static/media/background1.ba03849cffda47f46b2b.jpg",
@@ -32,12 +32,12 @@
     "static/media/2. Dr. B. Sambasiva Rao.jpg": "/static/media/2. Dr. B. Sambasiva Rao.e6287ffee39560c7f3f5.jpg",
     "static/media/15. Akash - Junior Research Fellow (Project).png": "/static/media/15. Akash - Junior Research Fellow (Project).03f9d1bf4924b2a3721c.png",
     "index.html": "/index.html",
-    "main.738dedf0.css.map": "/static/css/main.738dedf0.css.map",
+    "main.d6bb3968.css.map": "/static/css/main.d6bb3968.css.map",
     "main.4f037042.js.map": "/static/js/main.4f037042.js.map",
     "787.c28a8a44.chunk.js.map": "/static/js/787.c28a8a44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.738dedf0.css",
+    "static/css/main.d6bb3968.css",
     "static/js/main.4f037042.js"
   ]
 }
